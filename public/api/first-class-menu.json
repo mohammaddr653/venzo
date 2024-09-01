@@ -1,0 +1,40 @@
+
+  [
+      {
+        "href": "#",
+        "title": "اخبار و مقالات",
+        "tag":"news-&-articles",
+        "hasChild":true
+      },
+      {
+        "href": "#",
+        "title": "خودرو ها",
+        "tag":"cars",
+        "hasChild":true
+
+      },
+      {
+        "href": "#",
+        "title": "فروشگاه",
+        "tag":"shop",
+        "hasChild":true
+
+
+
+      },
+      {
+        "href": "#",
+        "title": "درباره الکران",
+        "tag":"shop-guide"
+
+
+      },
+      {
+        "href": "#",
+        "title": "همکاری با الکران",
+        "tag":"review"
+
+      }
+  ]
+
+  

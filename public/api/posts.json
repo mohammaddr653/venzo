@@ -1,0 +1,151 @@
+[
+    {
+        "href": "#",
+        "title": "بررسی گلکسی زد فلیپ 6 ، جا مانده بیخیال",
+        "id":1,
+        "mother":["news-&-articles","tech","admin-offer"],
+        "img":"/images/mclaren_570s_cgi-HD (1).jpg",
+        "readingTime":"16'",
+        "commentsNum":"14",
+        "date":"2000-08-19T23:15:30.000Z",
+        "label":["مطلب","خودروی 001"],
+        "authorName":"مریم ابراهیمی",
+        "authorImg":"Maryam-Embrahimi-2-60x60.jpg"
+
+    },
+    {
+        "href": "#",
+        "title": "دنیا در کام صفحه آبی مرگ؛‌ چطور یک‌ به‌روزرسانی ساده جهان را به آشوب کشید",
+        "id":2,
+        "mother":["news-&-articles","admin-offer"],
+        "img":"/images/mclaren_750s_coupe_2023_interior-HD (1).jpg",
+        "readingTime":"14'",
+        "commentsNum":"1",
+        "date":"2000-08-19T23:25:30.000Z",
+        "label":["ویدیو","مطلب","خودروی 001"]
+
+
+    },
+    {
+        "href": "#",
+        "title": "بررسی سونی اکسپریا 1 مارک 6 ، ایستاده مردن",
+        "id":3,
+        "mother":["news-&-articles","tech","most-seen"],
+        "img":"/images/2025_cadillac_escalade_v_5k-HD (1).jpg",
+        "readingTime":"20'",
+        "commentsNum":"12",
+        "date":"2002-08-19T23:15:30.000Z",
+        "label":["ویدیو","مطلب"]
+
+
+    },
+    {
+        "href": "#",
+        "title": "این هیوندای توسان ۲۰۲۵ است؛ شاسی‌بلند محبوب با قیمت بیشتر از مدل قبلی",
+        "id":4,
+        "mother":["news-&-articles","most-seen"],
+        "img":"/images/audi_s5_tfsi_quattro_2024_8k-HD (1).jpg",
+        "readingTime":"14'",
+        "commentsNum":"45",
+        "date":"2002-09-19T23:15:30.000Z",
+        "label":["مطلب"]
+
+    },
+    {
+        "href": "#",
+        "title": "نرم‌افزار حرفه‌ای Blackmagic Camera وارد تعداد بیشتری از گوشی‌های سامسونگ و گوگل شد",
+        "id":5,
+        "mother":["news-&-articles","tech","most-seen"],
+        "img":"/images/wp3087628-chevrolet-camaro-z28-wallpapers (1).jpg",
+        "readingTime":"23'",
+        "commentsNum":"32",
+        "date":"2004-08-19T23:15:30.000Z",
+        "label":["ویدیو","خودروی 001"]
+
+    },
+    {
+        "href": "#",
+        "title": "مدلی ویژه و بسیار امن از گلکسی A55 سامسونگ در راه است",
+        "id":6,
+        "mother":["news-&-articles","tech","admin-offer"],
+        "img":"/images/novitec_mclaren_artura_2024_8k-HD (1).jpg",
+        "readingTime":"14'",
+        "commentsNum":"56",
+        "date":"2004-08-20T23:15:30.000Z",
+        "label":["مطلب"]
+
+    },
+    {
+        "href": "#",
+        "title": "پیکسل ۹ و پیکسل ۹ پرو ایکس‌ال در رندرهای لورفته رؤیت شدند",
+        "id":7,
+        "mother":["news-&-articles","admin-offer"],
+        "img":"/images/wp2393369-nissan-titan-wallpapers (1).jpg",
+        "readingTime":"45'",
+        "commentsNum":"21",
+        "date":"1975-08-19T23:15:30.000Z",
+        "label":["ویدیو"]
+
+    },
+    {
+        "href": "#",
+        "title": "همه چیز درباره بازی همستر کامبت [بخش‌های جدید همستر اضافه شد + کارت‌های امروز 1 مرداد]",
+        "id":8,
+        "mother":["news-&-articles"],
+        "img":"/images/wp4198066-mercedes-suv-wallpapers (1).jpg",
+        "readingTime":"30'",
+        "commentsNum":"22",
+        "date":"1975-08-29T23:15:30.000Z",
+        "label":["ویدیو"]
+
+    },
+    {
+        "href": "#",
+        "title": "مدیرعامل شرکت خودروسازی ریویان از رابطه تجاری با اپل می‌گوید",
+        "id":9,
+        "mother":["news-&-articles","most-seen"],
+        "img":"/images/white_jeep-edit-09-1 (1).jpg",
+        "readingTime":"10'",
+        "commentsNum":"23",
+        "date":"1975-08-28T23:15:30.000Z",
+        "label":["ویدیو"]
+
+    },
+    {
+        "href": "#",
+        "title": "ردمی می‌گوید ردمی K70 اولترا در ۳ ساعت ابتدایی عرضه، رکورد فروش ۲۰۲۴ را شکست",
+        "id":10,
+        "mother":["news-&-articles","admin-offer"],
+        "img":"/images/PHOTOS01_821009999_PH_15_0 (1).jpg",
+        "readingTime":"5'",
+        "commentsNum":"32",
+        "date":"1975-08-27T23:15:30.000Z",
+        "label":["ویدیو","مطلب"]
+
+    },
+    {
+        "href": "#",
+        "title": "پاسپورت ۲۰۲۵ «توانمندترین شاسی‌بلند تاریخ هوندا» خواهد بود",
+        "id":11,
+        "mother":["news-&-articles","most-seen"],
+        "img":"/images/wp10433261-2022-ford-bronco-wallpapers (1).jpg",
+        "readingTime":"14'",
+        "commentsNum":"23",
+        "date":"1975-07-19T23:15:30.000Z",
+        "label":["ویدیو","مطلب"]
+
+    },
+    {
+        "href": "#",
+        "title": "کاربران ایرانی سامسونگ از اواخر پاییز امسال به شبکه 5G خوشامد می‌گویند",
+        "id":12,
+        "mother":["news-&-articles","admin-offer","most-seen"],
+        "img":"/images/audi_rs7_8k-HD (1).jpg",
+        "readingTime":"15'",
+        "commentsNum":"30",
+        "date":"1975-05-19T23:15:30.000Z",
+        "label":["مطلب"]
+
+    }
+
+]

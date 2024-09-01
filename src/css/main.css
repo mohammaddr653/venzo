@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'iransans';
+    font-style: normal;
+    font-weight: 400;
+    src: local("iransans"),
+    url("src/fonts/IRANSansWeb\(FaNum\)_Bold.ttf") format("truetype"),
+}
+@font-face {
+    font-family: 'iransans';
+    font-style: normal;
+    font-weight:200;
+    src: local("iransans"),
+    url("src/fonts/IRANSansWeb\(FaNum\)_Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'iransans';
+    font-style: normal;
+    font-weight: 300;
+    src: local("iransans"),
+    url("src/fonts/IRANSansWeb\(FaNum\)_Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'iransans';
+    font-style: normal;
+    font-weight: 100;
+    src: local("iransans"),
+    url("src/fonts/IRANSansWeb\(FaNum\)_UltraLight.ttf") format("truetype");
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'iransans';
+    font-weight: 300;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: 300;
+    font-size: 16px;
+}
+p{
+    font-size: 14px;
+}
+:root{
+    --bc-primary:white;
+    --bc-primary-hover:whitesmoke;
+    --bc-secondary:#E6E6E6;
+    --bc-secondary-dark:#5F5F5F;
+    --bc-darkface:rgba(0, 0, 0, 0.371);
+
+
+    --tx-2:#222;
+    --tx-3:#333;
+    --tx-4:#444;
+    --tx-5:#555;
+    --tx-6:#666;
+    --tx-7:#777;
+
+
+    --pallete-first:#F1721C;
+
+
+
+}
+body{
+    background-color: var(--bc-primary);
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 1000000vh;
+}
+a{
+    text-decoration: none;
+    color: unset;
+}
+
+.show-block{
+    display: block;
+}
+.show-flex{
+    display: flex;
+}
+.close{
+    display: none;
+}
+.hoverable{
+    border: 1px solid rgba(0, 0, 0, 0);
+    transition: border .3s;
+
+}
+.hoverable:hover{
+    transition: border .3s;
+    border: 1px solid var(--tx-7);
+}
+

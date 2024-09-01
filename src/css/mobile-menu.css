@@ -1,0 +1,14 @@
+div#mobile-menu-container{
+    width: 90vw;
+    background-color: var(--bc-primary);
+    height: 100vh;
+    top: 0;
+}
+div.mobile-menu-close{
+    left: -100%;
+    transition:left .3s ;
+}
+div.mobile-menu-show{
+    left: 0;
+    transition:left .3s ;
+}

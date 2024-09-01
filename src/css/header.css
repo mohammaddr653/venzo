@@ -1,0 +1,22 @@
+div#header-container{
+    background-color: var(bc-primary);
+}
+div.header-left-account svg{
+    fill: var(--bc-secondary-dark);
+    width: 30px;
+    aspect-ratio: 1/1;
+}
+div.header-left-account img{
+    height: 35px;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+}
+div.header-left-account span.user-name{
+    color: var(--tx-2);
+    font-size: 14px;
+}
+div#header-container button.header-left-hmbrgr svg{
+    aspect-ratio: 1/1;
+    width: 25px;
+    fill: var(--tx-3);
+}

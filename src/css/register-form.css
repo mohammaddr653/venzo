@@ -1,0 +1,21 @@
+div.register-form-container{
+    top:0;
+    height: 100vh;
+    width: 100vw;
+}
+div.register-form-container div.register-form-body{
+    width: 350px;
+}
+div.register-form-container div.note{
+    background-color: #222;
+    color: whitesmoke;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+div.register-form-container div.note p{
+    font-weight: 200;
+}
+div.register-form-container div.note p>svg{
+    margin-left: 5px;
+}
